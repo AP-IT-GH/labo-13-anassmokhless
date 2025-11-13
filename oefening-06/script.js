@@ -20,5 +20,7 @@ switch(gradeInNumbers){
     break;
     case 9:
     case 10: console.log("Uitstekend");
-    break; 
+    break;
+    default: console.log("Het zou niet mogelijk mogen zijn om dit in te geven");
+    break;
 }
